@@ -1,7 +1,7 @@
 # ryzen-mac-msi-x470
 MacOS for Ryzen 3700X, MSI X470 Gaming Plus Max and RX580
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="uUwtYzH"><a href="https://imgur.com/uUwtYzH">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![alt text] (https://i.imgur.com/uUwtYzH.png)
 
 I hadnt used any kind of MacOS since High Sierra and back then, it was again with a Ryzen (1600). So I thought to give BigSur a try. 
 Everything seems to be working fine. Including Sleep. Just remember to add your serial number etc. You know how. 
