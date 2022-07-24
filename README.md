@@ -12,4 +12,4 @@ My GPU is working fine but the AMD mods are not optimized as much.
 Thanks to the devs though for allowing us to get macOS with Ryzen CPUs
 
 
-Update 24/07/2022: Updated OpenCore. Works with 12.5 and the latest BIOS. Just make sure to disable BAR. Also, no Mic but you can use VoodooHDA if you wish
+Update 24/07/2022: Updated OpenCore. Works with 12.5 and the latest BIOS. Just make sure to disable BAR. Also, no Mic but you can use VoodooHDA if you wish. Lastly, DSDT was removed. System wouldnt boot with it
